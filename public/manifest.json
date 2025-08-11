@@ -18,6 +18,13 @@
       "sizes": "512x512"
     }
   ],
+  "share_target": {
+    "action": "/",
+    "method": "GET",
+    "params": {
+      "text": "text"
+    }
+  },
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#0d9488",
